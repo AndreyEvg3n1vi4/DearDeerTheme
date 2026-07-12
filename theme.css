@@ -1,4 +1,4 @@
-body {
+.theme-dark {
     /* Радиусы */
     --radius-s: 0px;
 	--radius-m: 0px;
@@ -24,6 +24,12 @@ body {
     --background-modifier-border: #C5A059;
     --background-modifier-border-hover: #B5A642;
     --background-modifier-border-focus: #C5A059;
+    
+    --interactive-normal: #C5A059;
+    --interactive-hover: white;
+
+    --interactive-accent: #C5A059;
+    --interactive-accent-hover: white;
 
     --hr-color: black;
 
@@ -31,11 +37,13 @@ body {
     --caret-color: #0000FF;
     --text-normal: #0819b1;
     --text-muted: black;
+
+    --text-on-accent:#0819b1;
     
     /* --file-line-width: 60%; */
     /* --tab-container-background: red; */
     --titlebar-background-focused: #F5DEB3;
-    --titlebar-background: white; /*цвет плашки окна вне фокуса*/
+    --titlebar-background: Gray; /*цвет плашки окна вне фокуса*/
 
     /*инпуты*/
     /* --background-modifier-form-field: #FFFFF0; */

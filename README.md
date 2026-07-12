@@ -5,4 +5,4 @@ My personal theme for obsidian. [status: InProgress]
 - homepage
 - obsidian-excalidraw-plugin
 
-- [] сохранить конфигурацию плагинов
+- [ ] сохранить конфигурацию плагинов
